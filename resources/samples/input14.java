@@ -1,5 +1,5 @@
-String[] fruits = new String[] {"Pineapple","Apple", "Orange", "Banana"}; 
- 
+String[] fruits = new String[] {"Pineapple","Apple", "Orange", "Banana"};
+
 Arrays.sort(fruits);
 
 int i=0;
